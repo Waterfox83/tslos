@@ -6,3 +6,4 @@ If you are here, you heard the [Ep. 207: Who Took a Cookie From the Cookie Jar](
 
 Please donate to any of [these charities](https://donate.indiacovidresources.in/#organisations) or to many of the good samaritans appealing for help on social media.
 
+As Naren would sign off, Stay Safe, [Stay Alive](https://www.youtube.com/watch?v=I_izvAbhExY), Stay Simblified! 
