@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to The Secret Life of Sriket
 
-You can use the [editor on GitHub](https://github.com/Waterfox83/tslos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If you are here, you heard the 3rd May episode of Simblified and you know all about cookies. And unless you are Delhi BJP, you know that a lot of people in India need more than cookies (or [Doritos](https://twitter.com/adeshguptabjp/status/1396073619709521924)) at the moment to survive. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please donate to any of [these charities](https://donate.indiacovidresources.in/#organisations) or to many of the good samaritans appealing for help on social media.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Waterfox83/tslos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
